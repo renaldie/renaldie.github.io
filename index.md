@@ -15,34 +15,29 @@ Generative AI, Deep Learning, Machine Learning
 
 ## Work Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
 `Jul 2024-Present`
 **Deep Learning Engineer Intern**<br/>
 *巨量移動科技有限公司*<br/>
 <i class="fa-solid fa-location-dot"></i>&nbsp;<span style="color:#808080">Taipei City, Taiwan</span>
 
 Joint project by MOEA (經濟部產業發展署)<br/>
-- Deep learning for medical devices
+<span style="margin-left: 0px;">•	Deep learning for medical devices
 
 `Jun 2024-Present`
 **AI Application Engineer Intern**<br/>
 *Crypto-Arsenal （奇策智能雲端股份有限公司）*<br/>
 <i class="fa-solid fa-location-dot"></i>&nbsp;<span style="color:#808080">Hsinchu City, Taiwan</span>
 
-- Developing a chatbot for QA and Code Generation
+<span style="margin-left: 0px;">•	Developing a chatbot for QA and Code Generation
 
 `Jan 2024-Present`
 **Kaggle Contributor**<br/>
 *Kaggle.com*
 
 Building my portfolio<br/>
-- EDA, Data Science, Machine Learning, and Deep Learning<br/>
-- Competition submission<br/>
-- Data scrapping to contribute new datasets
+<span style="margin-left: 0px;">•	EDA, Data Science, Machine Learning, and Deep Learning<br/>
+<span style="margin-left: 0px;">•	Competition submission<br/>
+<span style="margin-left: 0px;">•	Data scrapping to contribute new datasets
 
 `Jan 2023-Feb 2024 · 1 yr 2 mos`
 **Costing and Material Supervisor （報價用量）**<br/>
