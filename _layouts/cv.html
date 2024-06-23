@@ -6,9 +6,16 @@
   <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
   <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
   <script src="https://kit.fontawesome.com/8f203c74f5.js" crossorigin="anonymous"></script>
+  <style>
+    .experience-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  </style>
   <script>
       function updateMonths() {
-          const startDate = new Date("2024-01-01");
+          const startDate = new Date("2024-06-01");
           const currentDate = new Date();
           const months = (currentDate.getFullYear() - startDate.getFullYear()) * 12 + (currentDate.getMonth() - startDate.getMonth());
           document.getElementById("experience-duration").innerText = `${months} mos`;
