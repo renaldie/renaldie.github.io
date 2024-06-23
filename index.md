@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Renaldi CV
+title: Isaac Newton's CV
 ---
-# Renaldi Ega (梁民志)
+# Isaac Newton
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
