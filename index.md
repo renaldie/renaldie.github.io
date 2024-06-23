@@ -21,7 +21,7 @@ Generative AI, Deep Learning, Machine Learning
 <i class="fa-solid fa-location-dot"></i>&nbsp;<span style="color:#808080">Taipei City, Taiwan</span>
 
 Joint project by MOEA (經濟部產業發展署)<br/>
-- Deep learning for medical devices</span>
+- Deep learning for medical devices
 
 `Jun 2024-Present`
 **AI Application Engineer Intern**<br/>
