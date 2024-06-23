@@ -1,13 +1,23 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Renaldi CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Renaldi Ega (梁民志)
+Generative AI, Deep Learning, Machine Learning
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="renega99@gmail.com">Email</a>
+| <a href="https://www.linkedin.com/in/ren-e/">Linkedin</a>
+</div>
+
+<div id="webaddress">
+  <a href="https://davewhipp.github.io"><i class="fa-solid fa-house"></i> davewhipp.github.io</a> - 
+  <a href="http://www.helsinki.fi/geodynamics"><i class="fa-solid fa-users"></i> www.helsinki.fi/geodynamics (group)</a><br/>
+  <a href="https://github.com/davewhipp"><i class="fa-brands fa-github"></i> davewhipp</a> - 
+  <a href="https://orcid.org/0000-0002-3820-6886"><i class="fa-brands fa-orcid"></i> 0000-0002-3820-6886</a> - 
+  <!-- <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - -->
+  <a href="https://www.linkedin.com/in/dwhipp/"><i class="fa-brands fa-linkedin"></i> dwhipp</a> - 
+  <a href="https://twitter.com/dave_whipp"><i class="fa-brands fa-twitter"></i> @dave_whipp</a>
 </div>
 
 
