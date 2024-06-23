@@ -15,6 +15,11 @@ Generative AI, Deep Learning, Machine Learning
 
 ## Work Experience
 
+`1667 - death`
+__Trinity College, Cambridge__
+
+- Fellow
+
 `Jul 2024-Present`
 **Deep Learning Engineer Intern**<br/>
 *巨量移動科技有限公司*<br/>
