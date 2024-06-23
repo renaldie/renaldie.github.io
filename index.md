@@ -11,7 +11,7 @@ Generative AI, Deep Learning, Machine Learning
 </div>
 
 <div id="webaddress">
-  <a href="https://davewhipp.github.io"><i class="fa-solid fa-house"></i> davewhipp.github.io</a> - 
+  <a href="https://renaldie.github.io"><i class="fa-solid fa-house"></i>renaldie.github.io</a> - 
   <a href="http://www.helsinki.fi/geodynamics"><i class="fa-solid fa-users"></i> www.helsinki.fi/geodynamics (group)</a><br/>
   <a href="https://github.com/davewhipp"><i class="fa-brands fa-github"></i> davewhipp</a> - 
   <a href="https://orcid.org/0000-0002-3820-6886"><i class="fa-brands fa-orcid"></i> 0000-0002-3820-6886</a> - 
