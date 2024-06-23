@@ -65,7 +65,7 @@ Focus on Production Department （生產中心）<br/>
 `Dec 2021-Aug 2023 · 1 yr 9 mos`
 **Research Assistant**<br/>
 *Industrial Technology Research Institute （ITRI）（工業技術研究院, 工研院）*<br/>
-<i class="fa-solid fa-location-dot"></i><span style="color:#808080">&nbsp;Taipei City, Taiwan</span>
+<i class="fa-solid fa-location-dot"></i>&nbsp;<span style="color:#808080">Taipei City, Taiwan</span>
 
 ITRI is one of Taiwan’s leading research institutions. Worked in the ISTI (Industry, Science, and Technology International Strategy Center - 產科國際所) office of ITRI. Researching the economy, industry, and policy of Indonesia
 
@@ -82,14 +82,16 @@ Major Projects:<br/>
 
 `2024-Present`
 **M.Sc., Computer Science**<br/>
-*National Tsing Hua University - 國立清華大學*, Taiwan
+*National Tsing Hua University - 國立清華大學*
+<i class="fa-solid fa-location-dot"></i>&nbsp;<span style="color:#808080">Taiwan</span>
 
 <span style="margin-left: 10px;">• Focus on Data Science and Machine Learning<br/>
-<span style="margin-left: 10px;">• International Student Scholarship Awardee<br/>
+<span style="margin-left: 10px;">• International Student Scholarship Awardee<br/><br/>
 
 `2019-2021`
 **MBA**
-*National Taiwan University of Science and Technology – 國立台灣科技大學*, Taiwan
+*National Taiwan University of Science and Technology – 國立台灣科技大學*
+<i class="fa-solid fa-location-dot"></i>&nbsp;<span style="color:#808080">Taiwan</span>
 
 <span style="margin-left: 10px;">• Grade: 4.072 / 4.3<br/>
 <span style="margin-left: 10px;">• Cum Laude Honor<br/>
