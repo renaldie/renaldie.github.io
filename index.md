@@ -15,13 +15,6 @@ Generative AI, Deep Learning, Machine Learning
 
 ## Work Experience
 
-<div class="experience-header">
-  <span>**AI Application Engineer**</span>
-  <span>Jun 2024 - Present · <span id="experience-duration"></span></span>
-</div>
-Crypto-Arsenal(奇策智能雲端股份有限公司) - Internship<br/>
-<i class="fa-solid fa-location-dot"></i><span style="color:#808080">&nbsp;Hsinchu City, Taiwan</span>
-
 `Jul 2024 - Present · <span id="experience-duration"></span>`
 **Deep Learning Engineer**<br/>
 巨量移動科技有限公司 - Internship<br/>
