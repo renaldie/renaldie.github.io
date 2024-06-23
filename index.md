@@ -15,7 +15,7 @@ Generative AI, Deep Learning, Machine Learning
 
 ## Work Experience
 
-`Jul 2024 - Present`
+`Jul 2024 - Present · <span id="experience-duration"></span>`
 **Deep Learning Engineer**<br/>
 巨量移動科技有限公司 - Internship<br/>
 <i class="fa-solid fa-location-dot"></i><span style="color:#808080">&nbsp;Taipei City, Taiwan</span>
@@ -23,14 +23,14 @@ Generative AI, Deep Learning, Machine Learning
 Joint project by MOEA (經濟部產業發展署)<br/>
 <span style="margin-left: 0px;">- Deep learning for medical devices</span>
 
-`Jun 2024 - Present`
+`Jun 2024 - Present · <span id="experience-duration"></span>`
 **AI Application Engineer**<br/>
 Crypto-Arsenal(奇策智能雲端股份有限公司) - Internship<br/>
 <i class="fa-solid fa-location-dot"></i><span style="color:#808080">&nbsp;Hsinchu City, Taiwan</span>
 
 <span style="margin-left: 0px;">- Developing a chatbot for QA and Code Generation
 
-`Jan 2024 - Present · 6 mos`
+`Jan 2024 - Present · <span id="experience-duration"></span>` 
 **Kaggle Contributor**<br/>
 Kaggle.com
 
