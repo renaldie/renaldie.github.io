@@ -49,7 +49,7 @@ Focus on Product Development Department (開發/量化部)<br/>
 <span style="margin-left: 10px;">• Managed end-to-end material assessment of 100+ articles and 40+ models per season<br/>
 <span style="margin-left: 10px;">• Achieved target FOB (TFOB) while maximizing product profitability<br/>
 <span style="margin-left: 10px;">• Developed and led production automation projects to increase product net profit margin (NPM) by at least 20% per model<br/>
-<span style="margin-left: 10px;">• Ensured smooth project transfer from Development to Production stage
+<span style="margin-left: 10px;">• Ensured smooth project transfer from Development to Production stage<br/><br/>
 
 `Aug 2021-Jan 2023 · 1 yr 6 mos`
 **Production Lean Project Supervisor**<br/>
@@ -60,7 +60,7 @@ Focus on Production Department （生產中心）<br/>
 <span style="margin-left: 10px;">• Handled projects in centralized areas of 2 Production buildings with a monthly capacity of 500,000 pairs and 120 employees<br/>
 <span style="margin-left: 10px;">• Developed and led inter-department cost reduction projects through digitalization and optimized process flow, starting with material preparation, process, distribution, and replenishment. Reducing total Production material replenishment from 0.35% of weekly Freight-on-Board (FOB) value to 0.03% in 4 months<br/>
 <span style="margin-left: 10px;">• Implemented continuous Lean, 6S, Kaizen, JIT, ERCS, and Automation system in Production to eliminate waste and streamline production flow<br/>
-<span style="margin-left: 10px;">• Awarded 5 monthly and 2 semiannual Kaizen awards focusing on cost reduction and process efficiency
+<span style="margin-left: 10px;">• Awarded 5 monthly and 2 semiannual Kaizen awards focusing on cost reduction and process efficiency<br/><br/>
 
 `Dec 2021-Aug 2023 · 1 yr 9 mos`
 **Research Assistant**<br/>
@@ -75,7 +75,7 @@ Major Projects:<br/>
 <span style="margin-left: 10px;">• Smart City Initiatives<br/>
 <span style="margin-left: 10px;">• Investment and Industrial Regulations Analysis<br/>
 <span style="margin-left: 10px;">• Industrial Parks Report<br/>
-<span style="margin-left: 10px;">• IDX (Indonesia Stock Exchange) Companies Report<br/>
+<span style="margin-left: 10px;">• IDX (Indonesia Stock Exchange) Companies Report
 
 <!----------------------------------------------------------------------- Education ------------------------------------------------------------------------>
 ## Education
