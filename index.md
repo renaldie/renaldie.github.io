@@ -6,8 +6,8 @@ title: Renaldi CV
 Generative AI, Deep Learning, Machine Learning
 
 <div id="webaddress">
-  <i class="fa-solid fa-envelope"></i>&nbsp;<a href="renega99@gmail.com">Email</a> - 
-  <i class="fa-solid fa-house"></i>&nbsp;<a href="https://renaldie.github.io">Website</a> - 
+  <i class="fa-solid fa-house"></i>&nbsp;<a href="https://renaldie.github.io">Website</a> -
+  <i class="fa-solid fa-envelope"></i>&nbsp;<a href="mailto:renega99@gmail.com">Email</a> - 
   <i class="fa-brands fa-github"></i>&nbsp;<a href="https://github.com/renaldie">GitHub</a><br/>
   <i class="fa-brands fa-linkedin"></i>&nbsp;<a href="https://www.linkedin.com/in/ren-e">LinkedIn</a> - 
   <i class="fa-brands fa-kaggle"></i>&nbsp;<a href="https://www.kaggle.com/eren2222">Kaggle</a>
