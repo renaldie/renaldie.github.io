@@ -18,12 +18,12 @@ Generative AI, Deep Learning, Machine Learning
 ## Education
 
 `2024-Present`
-**M.Sc., Computer Science**
+**M.Sc., Computer Science**<br/>
 *National Tsing Hua University*, Taiwan
 - Sizar
 
 `2019-2021`
-**MBA**
+**MBA**<br/>
 *National Taiwan University of Science and Technology*, Taiwan
 - Sizar
 - 
