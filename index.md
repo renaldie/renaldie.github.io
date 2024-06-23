@@ -62,10 +62,10 @@ Focus on Production Department （生產中心）<br/>
 <span style="margin-left: 10px;">• Implemented continuous Lean, 6S, Kaizen, JIT, ERCS, and Automation system in Production to eliminate waste and streamline production flow<br/>
 <span style="margin-left: 10px;">• Awarded 5 monthly and 2 semiannual Kaizen awards focusing on cost reduction and process efficiency<br/><br/>
 
-<div style="margin-left: 10px; text-indent: -10px; padding-left: 20px;">
-•	Handled projects in centralized areas of 2 Production buildings with a monthly capacity of 500,000 pairs and 120 employees
-•	Developed and led inter-department cost reduction projects through digitalization and optimized process flow, starting with material preparation, process, distribution, and replenishment. Reducing total Production material replenishment from 0.35% of weekly Freight-on-Board (FOB) value to 0.03% in 4 months
-•	Implemented continuous Lean, 6S, Kaizen, JIT, ERCS, and Automation system in Production to eliminate waste and streamline production flow
+<div style="margin-left: 10px; text-indent: -10px;">
+•	Handled projects in centralized areas of 2 Production buildings with a monthly capacity of 500,000 pairs and 120 employees<br/>
+•	Developed and led inter-department cost reduction projects through digitalization and optimized process flow, starting with material preparation, process, distribution, and replenishment. Reducing total Production material replenishment from 0.35% of weekly Freight-on-Board (FOB) value to 0.03% in 4 months<br/>
+•	Implemented continuous Lean, 6S, Kaizen, JIT, ERCS, and Automation system in Production to eliminate waste and streamline production flow<br/>
 •	Awarded 5 monthly and 2 semiannual Kaizen awards focusing on cost reduction and process efficiency
 </div>
 
