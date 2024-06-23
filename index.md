@@ -7,30 +7,24 @@ Generative AI, Deep Learning, Machine Learning
 
 <div id="webaddress">
   <a href="renega99@gmail.com"><i class="fa-solid fa-envelope"></i> renega99@gmail.com</a> - 
-  <a href="https://renaldie.github.io"><i class="fa-solid fa-house"></i> renaldie.github.io</a> - 
+  <a href="https://renaldie.github.io"><i class="fa-solid fa-house"></i> renaldie.github.io</a><br/>
   <a href="https://github.com/renaldie"><i class="fa-brands fa-github"></i> renaldie</a> - 
   <a href="https://www.linkedin.com/in/ren-e"><i class="fa-brands fa-linkedin"></i> 梁民志 Renaldi</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Work Experience
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2024-Present`
+**M.Sc., Computer Science**, *National Tsing Hua University*, Taiwan
+- Sizar
+
+`2019-2021`
+**MBA**, *National Taiwan University of Science and Technology*, Taiwan
+- Sizar
+- 
 
 `June 1661 - now`
 __Trinity College, Cambridge__
