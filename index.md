@@ -13,6 +13,20 @@ Generative AI, Deep Learning, Machine Learning
 </div>
 
 ## Work Experience
+`Jul 2024-Present`
+**Deep Learning Engineer**<br/>
+巨量移動科技有限公司 - Internship<br/>
+<i class="fa-solid fa-location-dot"></i><span style="color:#808080">Taipei City, Taiwan</span>
+
+Joint project by MOEA (經濟部產業發展署)<br>
+<span style="margin-left: 20px;">- Deep learning for medical devices</span>
+
+`Jun 2024-Present`
+**AI Application Engineer**<br/>
+Crypto-Arsenal(奇策智能雲端股份有限公司) - Internship<br/>
+<i class="fa-solid fa-location-dot"></i><span style="color:#808080">Hsinchu City, Taiwan</span>
+
+- Developing a chatbot for QA and Code Generation
 
 
 ## Education
