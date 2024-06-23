@@ -89,7 +89,7 @@ Major Projects:<br/>
 <span style="margin-left: 10px;">• International Student Scholarship Awardee<br/><br/>
 
 `2019-2021`
-**MBA**
+**MBA**<br/>
 *National Taiwan University of Science and Technology – 國立台灣科技大學*<br/>
 <i class="fa-solid fa-location-dot"></i>&nbsp;<span style="color:#808080">Taiwan</span>
 
