@@ -18,24 +18,15 @@ Generative AI, Deep Learning, Machine Learning
 ## Education
 
 `2024-Present`
-**M.Sc., Computer Science**, *National Tsing Hua University*, Taiwan
+**M.Sc., Computer Science**
+*National Tsing Hua University*, Taiwan
 - Sizar
 
 `2019-2021`
-**MBA**, *National Taiwan University of Science and Technology*, Taiwan
+**MBA**
+*National Taiwan University of Science and Technology*, Taiwan
 - Sizar
 - 
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
 
 
 ## Awards
