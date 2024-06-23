@@ -22,14 +22,14 @@ Generative AI, Deep Learning, Machine Learning
 <i class="fa-solid fa-location-dot"></i>&nbsp;<span style="color:#808080">Taipei City, Taiwan</span>
 
 Joint project by MOEA (經濟部產業發展署)<br/>
-<span style="margin-left: 10px;">• Deep learning for medical devices
+<span style="margin-left: 10px;">• Deep learning for medical devices<br/><br/>
 
 `Jun 2024-Present`
 **AI Application Engineer Intern**<br/>
 *Crypto-Arsenal （奇策智能雲端股份有限公司）*<br/>
 <i class="fa-solid fa-location-dot"></i>&nbsp;<span style="color:#808080">Hsinchu City, Taiwan</span>
 
-<span style="margin-left: 10px;">• Developing a chatbot for QA and Code Generation
+<span style="margin-left: 10px;">• Developing a chatbot for QA and Code Generation<br/><br/>
 
 `Jan 2024-Present`
 **Kaggle Contributor**<br/>
@@ -38,7 +38,7 @@ Joint project by MOEA (經濟部產業發展署)<br/>
 Building my portfolio<br/>
 <span style="margin-left: 10px;">• EDA, Data Science, Machine Learning, and Deep Learning<br/>
 <span style="margin-left: 10px;">• Competition submission<br/>
-<span style="margin-left: 10px;">• Data scrapping to contribute new datasets
+<span style="margin-left: 10px;">• Data scrapping to contribute new datasets<br/><br/>
 
 `Jan 2023-Feb 2024 · 1 yr 2 mos`
 **Costing and Material Supervisor （報價用量）**<br/>
@@ -94,6 +94,7 @@ Major Projects:<br/>
 <span style="margin-left: 10px;">• Grade: 4.072 / 4.3<br/>
 <span style="margin-left: 10px;">• Cum Laude Honor<br/>
 <span style="margin-left: 10px;">• International Student Scholarship Awardee<br/>
+
 <!-------------------------------------------------------------------------- Language ------------------------------------------------------------------------->
 ## Language
 
