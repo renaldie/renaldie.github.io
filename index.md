@@ -69,6 +69,14 @@ Focus on Production Department （生產中心）<br/>
 •	Awarded 5 monthly and 2 semiannual Kaizen awards focusing on cost reduction and process efficiency
 </div>
 
+<div style="margin-left: 10px; text-indent: -10px; padding-left: 20px;">
+• Developed and led inter-department cost reduction projects through digitalization and optimized process flow, starting with material preparation, process, distribution, and replenishment. Reducing total Production material replenishment from 0.35% of weekly Freight-on-Board (FOB) value to 0.03% in 4 months
+</div>
+
+<div style="margin-left: 10px; padding-left: 20px;">
+• Developed and led inter-department cost reduction projects through digitalization and optimized process flow, starting with material preparation, process, distribution, and replenishment. Reducing total Production material replenishment from 0.35% of weekly Freight-on-Board (FOB) value to 0.03% in 4 months
+</div>
+
 `Dec 2021-Aug 2023 · 1 yr 9 mos`
 **Research Assistant**<br/>
 *Industrial Technology Research Institute （ITRI）（工業技術研究院, 工研院）*<br/>
