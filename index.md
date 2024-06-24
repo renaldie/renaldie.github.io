@@ -2,7 +2,7 @@
 layout: cv
 title: Renaldi CV
 ---
-<div style="float: left">
+<div style="float: left; width: 80%; margin-right: 20px;">
   <img src="assets/headshot_circle.png" alt="Profile Picture"">
 </div>
 
