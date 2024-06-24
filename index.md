@@ -2,9 +2,10 @@
 layout: cv
 title: Renaldi CV
 ---
-<div style="float: left; width: 80%; margin-right: 20px;">
-  <img src="assets/headshot_circle.png" alt="Profile Picture" style="width: 100%; border-radius: 50%;">
+<div style="float: left">
+  <img src="assets/headshot_circle.png" alt="Profile Picture"">
 </div>
+
 # Renaldi Ega （梁民志）
 Generative AI, Deep Learning, Machine Learning
 
