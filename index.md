@@ -57,10 +57,10 @@ Focus on Product Development Department (開發/量化部)<br/>
 <i class="fa-solid fa-location-dot">&nbsp;</i><span style="color:#808080">Central Java, Indonesia</span>
 
 Focus on Production Department （生產中心）<br/>
-<span style="margin-left: 10px;">• Handled projects in centralized areas of 2 Production buildings with a monthly capacity of 500,000 pairs and 120 employees<br/>
-<span style="margin-left: 10px;">• Developed and led inter-department cost reduction projects through digitalization and optimized process flow, starting with material preparation, process, distribution, and replenishment. Reducing total Production material replenishment from 0.35% of weekly Freight-on-Board (FOB) value to 0.03% in 4 months<br/>
-<span style="margin-left: 10px;">• Implemented continuous Lean, 6S, Kaizen, JIT, ERCS, and Automation system in Production to eliminate waste and streamline production flow<br/>
-<span style="margin-left: 10px;">• Awarded 5 monthly and 2 semiannual Kaizen awards focusing on cost reduction and process efficiency<br/><br/>
+- Handled projects in centralized areas of 2 Production buildings with a monthly capacity of 500,000 pairs and 120 employees<br/>
+- Developed and led inter-department cost reduction projects through digitalization and optimized process flow, starting with material preparation, process, distribution, and replenishment. Reducing total Production material replenishment from 0.35% of weekly Freight-on-Board (FOB) value to 0.03% in 4 months<br/>
+- Implemented continuous Lean, 6S, Kaizen, JIT, ERCS, and Automation system in Production to eliminate waste and streamline production flow<br/>
+- Awarded 5 monthly and 2 semiannual Kaizen awards focusing on cost reduction and process efficiency<br/><br/>
 
 `Dec 2021-Aug 2023 · 1 yr 9 mos`
 **Research Assistant**<br/>
@@ -93,7 +93,7 @@ Major Projects:<br/>
 *National Taiwan University of Science and Technology – 國立台灣科技大學*<br/>
 <i class="fa-solid fa-location-dot"></i>&nbsp;<span style="color:#808080">Taiwan</span>
 
-<span style="margin-left: 10px;">• Grade: 4.072 / 4.3<br/>
+- Grade: 4.072 / 4.3<br/>
 <span style="margin-left: 10px;">• Cum Laude Honor<br/>
 <span style="margin-left: 10px;">• International Student Scholarship Awardee<br/>
 
