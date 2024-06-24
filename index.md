@@ -2,16 +2,20 @@
 layout: cv
 title: Renaldi CV
 ---
-![Profile Picture](assets/headshot_circle.png)
-# Renaldi Ega （梁民志）
-Generative AI, Deep Learning, Machine Learning
+<div class="profile-container">
+  <img src="assets/headshot_circle.png" alt="Profile Picture" class="profile-picture">
+  <div class="profile-details">
+    # Renaldi Ega （梁民志）
+    Generative AI, Deep Learning, Machine Learning
 
-<div id="webaddress">
-  <i class="fa-solid fa-house"></i>&nbsp;<a href="https://renaldie.github.io">Website</a> -
-  <i class="fa-solid fa-envelope"></i>&nbsp;<a href="mailto:renega99@gmail.com">Email</a> - 
-  <i class="fa-brands fa-github"></i>&nbsp;<a href="https://github.com/renaldie">GitHub</a><br/>
-  <i class="fa-brands fa-linkedin"></i>&nbsp;<a href="https://www.linkedin.com/in/ren-e">LinkedIn</a> - 
-  <i class="fa-brands fa-kaggle"></i>&nbsp;<a href="https://www.kaggle.com/eren2222">Kaggle</a>
+    <div id="webaddress">
+      <i class="fa-solid fa-house"></i>&nbsp;<a href="https://renaldie.github.io">Website</a> -
+      <i class="fa-solid fa-envelope"></i>&nbsp;<a href="mailto:renega99@gmail.com">Email</a> - 
+      <i class="fa-brands fa-github"></i>&nbsp;<a href="https://github.com/renaldie">GitHub</a><br/>
+      <i class="fa-brands fa-linkedin"></i>&nbsp;<a href="https://www.linkedin.com/in/ren-e">LinkedIn</a> - 
+      <i class="fa-brands fa-kaggle"></i>&nbsp;<a href="https://www.kaggle.com/eren2222">Kaggle</a>
+    </div>
+  </div>
 </div>
 
 <!------------------------------------------------------------------ Work Experience ------------------------------------------------------------------->
