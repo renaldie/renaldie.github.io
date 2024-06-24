@@ -22,23 +22,23 @@ Generative AI, Deep Learning, Machine Learning
 <i class="fa-solid fa-location-dot"></i>&nbsp;<span style="color:#808080">Taipei City, Taiwan</span>
 
 Joint project by MOEA (經濟部產業發展署)<br/>
-<span style="margin-left: 10px;">• Deep learning for medical devices<br/><br/>
+- Deep learning for medical devices<br/><br/>
 
 `Jun 2024-Present`
 **AI Application Engineer Intern**<br/>
 *Crypto-Arsenal （奇策智能雲端股份有限公司）*<br/>
 <i class="fa-solid fa-location-dot"></i>&nbsp;<span style="color:#808080">Hsinchu City, Taiwan</span>
 
-<span style="margin-left: 10px;">• Developing a chatbot for QA and Code Generation<br/><br/>
+- Developing a chatbot for QA and Code Generation<br/><br/>
 
 `Jan 2024-Present`
 **Kaggle Contributor**<br/>
 *Kaggle.com*
 
 Building my portfolio<br/>
-<span style="margin-left: 10px;">• EDA, Data Science, Machine Learning, and Deep Learning<br/>
-<span style="margin-left: 10px;">• Competition submission<br/>
-<span style="margin-left: 10px;">• Data scrapping to contribute new datasets<br/><br/>
+- EDA, Data Science, Machine Learning, and Deep Learning<br/>
+- Competition submission<br/>
+- Data scrapping to contribute new datasets<br/><br/>
 
 `Jan 2023-Feb 2024 · 1 yr 2 mos`
 **Costing and Material Supervisor （報價用量）**<br/>
@@ -46,10 +46,10 @@ Building my portfolio<br/>
 <i class="fa-solid fa-location-dot"></i>&nbsp;<span style="color:#808080">Central Java, Indonesia</span>
 
 Focus on Product Development Department (開發/量化部)<br/>
-<span style="margin-left: 10px;">• Managed end-to-end material assessment of 100+ articles and 40+ models per season<br/>
-<span style="margin-left: 10px;">• Achieved target FOB (TFOB) while maximizing product profitability<br/>
-<span style="margin-left: 10px;">• Developed and led production automation projects to increase product net profit margin (NPM) by at least 20% per model<br/>
-<span style="margin-left: 10px;">• Ensured smooth project transfer from Development to Production stage<br/><br/>
+- Managed end-to-end material assessment of 100+ articles and 40+ models per season<br/>
+- Achieved target FOB (TFOB) while maximizing product profitability<br/>
+- Developed and led production automation projects to increase product net profit margin (NPM) by at least 20% per model<br/>
+- Ensured smooth project transfer from Development to Production stage<br/><br/>
 
 `Aug 2021-Jan 2023 · 1 yr 6 mos`
 **Production Lean Project Supervisor**<br/>
@@ -70,12 +70,12 @@ Focus on Production Department （生產中心）<br/>
 ITRI is one of Taiwan’s leading research institutions. Worked in the ISTI (Industry, Science, and Technology International Strategy Center - 產科國際所) office of ITRI. Researching the economy, industry, and policy of Indonesia
 
 Major Projects:<br/>
-<span style="margin-left: 10px;">• Omnibus Law on Job Creation<br/>
-<span style="margin-left: 10px;">• COVID-19 Impacts on Key Industries<br/>
-<span style="margin-left: 10px;">• Smart City Initiatives<br/>
-<span style="margin-left: 10px;">• Investment and Industrial Regulations Analysis<br/>
-<span style="margin-left: 10px;">• Industrial Parks Report<br/>
-<span style="margin-left: 10px;">• IDX (Indonesia Stock Exchange) Companies Report
+- Omnibus Law on Job Creation<br/>
+- COVID-19 Impacts on Key Industries<br/>
+- Smart City Initiatives<br/>
+- Investment and Industrial Regulations Analysis<br/>
+- Industrial Parks Report<br/>
+- IDX (Indonesia Stock Exchange) Companies Report
 
 <!----------------------------------------------------------------------- Education ------------------------------------------------------------------------>
 ## Education
@@ -85,17 +85,17 @@ Major Projects:<br/>
 *National Tsing Hua University - 國立清華大學*<br/>
 <i class="fa-solid fa-location-dot"></i>&nbsp;<span style="color:#808080">Taiwan</span>
 
-<span style="margin-left: 10px;">• Focus on Data Science and Machine Learning<br/>
-<span style="margin-left: 10px;">• International Student Scholarship Awardee<br/><br/>
+- Focus on Data Science and Machine Learning<br/>
+- International Student Scholarship Awardee<br/><br/>
 
 `2019-2021`
 **MBA**<br/>
 *National Taiwan University of Science and Technology – 國立台灣科技大學*<br/>
 <i class="fa-solid fa-location-dot"></i>&nbsp;<span style="color:#808080">Taiwan</span>
 
-- Grade: 4.072 / 4.3<br/>
-<span style="margin-left: 10px;">• Cum Laude Honor<br/>
-<span style="margin-left: 10px;">• International Student Scholarship Awardee<br/>
+Grade: 4.072 / 4.3<br/>
+- Cum Laude Honor<br/>
+- International Student Scholarship Awardee<br/>
 
 <!-------------------------------------------------------------------------- Language ------------------------------------------------------------------------->
 ## Language
