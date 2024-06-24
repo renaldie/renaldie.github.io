@@ -2,8 +2,8 @@
 layout: cv
 title: Renaldi CV
 ---
-<div style="float: left; width: 80%; margin-right: 20px;">
-  <img src="assets/headshot_circle.png" alt="Profile Picture" style="width: 10%; border-radius: 50%;">
+<div style="position: relative; left: 25%; display: flex; align-items: center;">
+  <img src="assets/headshot_circle.png" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
 </div>
 
 # Renaldi Ega （梁民志）
