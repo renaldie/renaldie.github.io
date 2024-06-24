@@ -22,6 +22,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	overflow-x: hidden; /* New add */
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -66,7 +67,8 @@ p {
 	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	/* width: 55%;*/
+	width: auto; /* Let it adapt to the container */
 }
 
 code {
@@ -84,12 +86,20 @@ p code {
 }
 
 
-ul {
+/* ul {
 	position: relative;
 	left: 25%;
 	width: 75%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
+} */
+
+ul {
+    position: relative;
+    left: 25%;
+    width: auto;
+    margin-bottom: 1.5em;
+    margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -124,6 +134,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	width: auto; /* Let it adapt to the container */
 }
 
 h1+p {
