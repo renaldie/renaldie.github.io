@@ -101,7 +101,7 @@ li:before {
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
+	padding-left: 1.75em;
 	text-indent: -1.25em;
 	/*color: #777;*/
 }
