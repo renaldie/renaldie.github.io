@@ -2,6 +2,7 @@
 layout: cv
 title: Renaldi CV
 ---
+![Profile Picture](assets/headshot_circle.png)
 # Renaldi Ega （梁民志）
 Generative AI, Deep Learning, Machine Learning
 
